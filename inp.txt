@@ -1,0 +1,50 @@
+Hyderabad
+Delhi
+Adelaide
+Kolkata
+Melbourne
+Bengaluru
+Vizag
+Perth
+Hobart
+0
+
+
+
+Hyderabad
+Delhi
+Adelaide
+Kolkata
+Melbourne
+Bengaluru
+Vizag
+Perth
+Hobarts
+tokyo
+kyoto
+sapporo
+osaka
+yokohama
+hiroshima
+nagasaki
+0
+
+
+Gabba
+eden gardens
+Melbourne cricket stadium
+Adelaide oval
+centurion
+Wankhede Stadium
+M. Chinnaswamy Stadium
+sydney cricket ground
+Brisbane Cricket Ground
+St George's Park
+0
+
+
+
+
+
+
+
