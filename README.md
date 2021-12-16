@@ -9,7 +9,7 @@ __Used Libraries__
 3. requests
 4. NLTK
 5. numpy
-6. lsa
+6. Lsa
 7. sklearn
 
 
